@@ -8,6 +8,7 @@ public class MainClass {
 		System.out.println("용호작업2");
 		
 		System.out.println("동주 시작");
+		System.out.println("동주 작업");
 	}
 
 }
