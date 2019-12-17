@@ -7,8 +7,8 @@ public class MainClass {
 		System.out.println("종료");
 		System.out.println("용호작업2");
 		
-		System.out.println("동주 시작");
-		System.out.println("동주 작업");
+		System.out.println("문동주 시작");
+		System.out.println("문동주 작업");
 		System.out.println("용호작업3");
 		System.out.println("작업4");
 	}
